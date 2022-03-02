@@ -1,0 +1,3 @@
+Assumptions made:
+Input will always be correct, including that total numbers of seats requested will be less than the total seats possible
+Preference of seat location does not matter
